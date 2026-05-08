@@ -383,5 +383,5 @@ The following example usage of `3DTILES_bounding_volume_S2` to represent all 6 f
 _This section is non-normative_
 
 - [S2Geometry Reference C++ Implementation](https://github.com/google/s2geometry/tree/master/src/s2)
-- [S2Geometry Reference Java Implementation](https://github.com/google/s2-geometry-library-java/tree/master/src/com/google/common/geometry)
+- [S2Geometry Reference Java Implementation](https://github.com/google/s2-geometry-library-java/tree/master/library/src/com/google/common/geometry)
 - [S2Cell.js in CesiumJS](https://github.com/CesiumGS/cesium/blob/main/packages/engine/Source/Core/S2Cell.js)
